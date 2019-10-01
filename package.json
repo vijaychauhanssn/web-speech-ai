@@ -7,7 +7,7 @@
     "start": "nf start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tomomi Imura",
+  "author": "Vijay Chauhan",
   "license": "MIT",
   "dependencies": {
     "apiai": "^4.0.2",
@@ -15,5 +15,15 @@
     "ejs": "^2.5.6",
     "express": "^4.15.2",
     "socketio": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girliemac/web-speech-ai.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/girliemac/web-speech-ai/issues"
+  },
+  "homepage": "https://github.com/girliemac/web-speech-ai#readme"
 }
